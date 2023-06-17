@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\bin\Debug\AvtoBorsa.exe.config
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\bin\Debug\AvtoBorsa.exe
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\bin\Debug\AvtoBorsa.pdb
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\obj\Debug\AvtoBorsa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\obj\Debug\AvtoBorsa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\obj\Debug\AvtoBorsa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\obj\Debug\AvtoBorsa.exe
+C:\Users\Admin\Desktop\Proekt№2\AvtoBorsa\obj\Debug\AvtoBorsa.pdb
